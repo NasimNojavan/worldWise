@@ -1,18 +1,6 @@
 {
   "cities": [
     {
-      "cityName": "Lisbon",
-      "country": "Portugal",
-      "emoji": "🇵🇹",
-      "date": "2027-10-31T15:59:59.138Z",
-      "notes": "My favorite city so far!",
-      "position": {
-        "lat": 38.727881642324164,
-        "lng": -9.140900099907554
-      },
-      "id": 73937385
-    },
-    {
       "cityName": "Madrid",
       "country": "Spain",
       "emoji": "🇪🇸",
@@ -25,16 +13,64 @@
       "id": 17806751
     },
     {
-      "cityName": "Berlin",
-      "country": "Germany",
-      "emoji": "🇩🇪",
-      "date": "2027-02-12T09:24:11.863Z",
-      "notes": "Amazing 😃",
+      "cityName": "Istanbul",
+      "country": "TR",
+      "emoji": "🇹🇷",
+      "date": "2026-09-26T10:41:42.401Z",
+      "notes": "",
       "position": {
-        "lat": 52.53586782505711,
-        "lng": 13.376933665713324
+        "lat": "41.0130657870063",
+        "lng": "28.93798828125"
       },
-      "id": 98443197
+      "id": 98443215
+    },
+    {
+      "cityName": "Ferizli",
+      "country": "TR",
+      "emoji": "🇹🇷",
+      "date": "2026-09-26T12:09:37.971Z",
+      "notes": "",
+      "position": {
+        "lat": "40.94671366508002",
+        "lng": "30.454101562500004"
+      },
+      "id": 98443216
+    },
+    {
+      "cityName": "Stratford-upon-Avon",
+      "country": "GB",
+      "emoji": "🇬🇧",
+      "date": "2026-09-26T12:09:50.993Z",
+      "notes": "",
+      "position": {
+        "lat": "52.24125614966341",
+        "lng": "-1.7138671875000002"
+      },
+      "id": 98443217
+    },
+    {
+      "cityName": "Gebze",
+      "country": "TR",
+      "emoji": "🇹🇷",
+      "date": "2026-09-26T12:11:11.530Z",
+      "notes": "",
+      "position": {
+        "lat": "40.93011520598307",
+        "lng": "29.641113281250004"
+      },
+      "id": 98443218
+    },
+    {
+      "cityName": "Alucra",
+      "country": "TR",
+      "emoji": "🇹🇷",
+      "date": "2026-09-26T14:31:09.213Z",
+      "notes": "",
+      "position": {
+        "lat": "40.29628651711716",
+        "lng": "38.95751953125001"
+      },
+      "id": 98443219
     }
   ]
 }
